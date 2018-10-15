@@ -3,7 +3,7 @@ require("tidyverse")
 require("tidytext")
 
 #set working directory
-setwd("/Users/gai7612/OneDrive/Documents/Data Science Project/pop music analysis")
+#setwd("")
 
 #import data
 lyrics <- read_csv("billboard_lyrics_1964-2015.csv")
